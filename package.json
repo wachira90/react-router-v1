@@ -1,7 +1,6 @@
 {
-  "name": "runner",
-  "version": "0.1.0",
-  "private": true,
+  "name": "react-router-v1",
+  "version": "1.0.0",
   "dependencies": {
     "@fortawesome/react-fontawesome": "^0.1.7",
     "mdbreactjs": "^4.0.1",

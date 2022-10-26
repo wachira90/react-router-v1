@@ -9,19 +9,19 @@ import React from 'react';
 
 class Checklogin extends React.Component {
 
-CheckSomethingFunction = () => {
-  //check cookie or localstorage
+  CheckSomethingFunction = () => {
+    //check cookie or localstorage
 
-  // if (this.state.loginstatus) {
-  //   return <Redirect to='/target' />
-  // }
+    // if (this.state.loginstatus) {
+    //   return <Redirect to='/target' />
+    // }
 
-console.log('CheckSomethingFunction');
-}
+    console.log('CheckSomethingFunction');
+  }
 
-	render() {
-		console.log('Checklogin');
+  render() {
+    console.log('Checklogin');
     return null;
-	}
+  }
 }
 export default Checklogin;

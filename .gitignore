@@ -1,0 +1,7 @@
+api/api/__pycache__
+*.pyc
+*.db
+*~
+.*
+env/
+!.gitignore
